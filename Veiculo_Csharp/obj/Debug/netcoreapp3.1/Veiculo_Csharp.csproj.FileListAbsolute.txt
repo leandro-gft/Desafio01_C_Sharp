@@ -1,0 +1,11 @@
+C:\Users\LOPH\source\repos\Veiculo_Csharp\Veiculo_Csharp\bin\Debug\netcoreapp3.1\Veiculo_Csharp.exe
+C:\Users\LOPH\source\repos\Veiculo_Csharp\Veiculo_Csharp\bin\Debug\netcoreapp3.1\Veiculo_Csharp.deps.json
+C:\Users\LOPH\source\repos\Veiculo_Csharp\Veiculo_Csharp\bin\Debug\netcoreapp3.1\Veiculo_Csharp.runtimeconfig.json
+C:\Users\LOPH\source\repos\Veiculo_Csharp\Veiculo_Csharp\bin\Debug\netcoreapp3.1\Veiculo_Csharp.runtimeconfig.dev.json
+C:\Users\LOPH\source\repos\Veiculo_Csharp\Veiculo_Csharp\bin\Debug\netcoreapp3.1\Veiculo_Csharp.dll
+C:\Users\LOPH\source\repos\Veiculo_Csharp\Veiculo_Csharp\bin\Debug\netcoreapp3.1\Veiculo_Csharp.pdb
+C:\Users\LOPH\source\repos\Veiculo_Csharp\Veiculo_Csharp\obj\Debug\netcoreapp3.1\Veiculo_Csharp.csprojAssemblyReference.cache
+C:\Users\LOPH\source\repos\Veiculo_Csharp\Veiculo_Csharp\obj\Debug\netcoreapp3.1\Veiculo_Csharp.AssemblyInfoInputs.cache
+C:\Users\LOPH\source\repos\Veiculo_Csharp\Veiculo_Csharp\obj\Debug\netcoreapp3.1\Veiculo_Csharp.AssemblyInfo.cs
+C:\Users\LOPH\source\repos\Veiculo_Csharp\Veiculo_Csharp\obj\Debug\netcoreapp3.1\Veiculo_Csharp.dll
+C:\Users\LOPH\source\repos\Veiculo_Csharp\Veiculo_Csharp\obj\Debug\netcoreapp3.1\Veiculo_Csharp.pdb

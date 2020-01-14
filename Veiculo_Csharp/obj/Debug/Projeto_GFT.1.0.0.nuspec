@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Projeto_GFT</id>
+    <version>1.0.0</version>
+    <authors>Projeto_GFT</authors>
+    <owners>Projeto_GFT</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\LOPH\source\repos\Projeto_GFT\Projeto_GFT\bin\Debug\netcoreapp3.1\Projeto_GFT.runtimeconfig.json" target="lib\netcoreapp3.1\Projeto_GFT.runtimeconfig.json" />
+    <file src="C:\Users\LOPH\source\repos\Projeto_GFT\Projeto_GFT\bin\Debug\netcoreapp3.1\Projeto_GFT.dll" target="lib\netcoreapp3.1\Projeto_GFT.dll" />
+  </files>
+</package>

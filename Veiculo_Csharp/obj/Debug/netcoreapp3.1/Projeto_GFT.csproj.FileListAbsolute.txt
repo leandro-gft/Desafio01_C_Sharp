@@ -1,0 +1,11 @@
+C:\Users\LOPH\source\repos\Projeto_GFT\Projeto_GFT\obj\Debug\netcoreapp3.1\Projeto_GFT.csprojAssemblyReference.cache
+C:\Users\LOPH\source\repos\Projeto_GFT\Projeto_GFT\obj\Debug\netcoreapp3.1\Projeto_GFT.AssemblyInfoInputs.cache
+C:\Users\LOPH\source\repos\Projeto_GFT\Projeto_GFT\obj\Debug\netcoreapp3.1\Projeto_GFT.AssemblyInfo.cs
+C:\Users\LOPH\source\repos\Projeto_GFT\Projeto_GFT\bin\Debug\netcoreapp3.1\Veiculo_CSharp.exe
+C:\Users\LOPH\source\repos\Projeto_GFT\Projeto_GFT\bin\Debug\netcoreapp3.1\Veiculo_CSharp.deps.json
+C:\Users\LOPH\source\repos\Projeto_GFT\Projeto_GFT\bin\Debug\netcoreapp3.1\Veiculo_CSharp.runtimeconfig.json
+C:\Users\LOPH\source\repos\Projeto_GFT\Projeto_GFT\bin\Debug\netcoreapp3.1\Veiculo_CSharp.runtimeconfig.dev.json
+C:\Users\LOPH\source\repos\Projeto_GFT\Projeto_GFT\bin\Debug\netcoreapp3.1\Veiculo_CSharp.dll
+C:\Users\LOPH\source\repos\Projeto_GFT\Projeto_GFT\bin\Debug\netcoreapp3.1\Veiculo_CSharp.pdb
+C:\Users\LOPH\source\repos\Projeto_GFT\Projeto_GFT\obj\Debug\netcoreapp3.1\Veiculo_CSharp.dll
+C:\Users\LOPH\source\repos\Projeto_GFT\Projeto_GFT\obj\Debug\netcoreapp3.1\Veiculo_CSharp.pdb
